@@ -1,6 +1,6 @@
-# Large Language Models in Environmental Toxicology: Cigarette Butt Case Study
+# Large Language Models in Environmental Toxicology: Cigarette Butt Study
 
-# Toxicidade de Bitucas de Cigarro com LLM
+# Grandes Modelos de Linguagem em Toxicologia Ambiental: Estudo de Bitucas de Cigarro
 
 Este repositório investiga a toxicidade de bitucas de cigarro (cigarette butts) usando Large Language Models (LLMs) para extração de dados.
 
