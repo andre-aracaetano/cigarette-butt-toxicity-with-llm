@@ -11,3 +11,10 @@ Modelos de linguagem (LLMs) podem ajudar a extrair dados relevantes da literatur
 # Objetivos do Projeto
 
 Utilizar LLMs para extrair dados relevantes de artigos sobre toxicidade de bitucas de cigarro. Além disso, armazenar outros dados de nossas pesquisas.
+
+# Pastas:
+- Analisador de Pigmentação: ''analisador_pigmentacao''
+
+
+
+# Analisador de Pigmentações
