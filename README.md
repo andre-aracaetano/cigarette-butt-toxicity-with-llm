@@ -17,13 +17,13 @@ Utilizar LLMs para extrair dados relevantes de artigos sobre toxicidade de bituc
 
 # Analisador de Pigmentações
 
-Objetivo: Esta aplicação foi feita com o intuito de analisar imagens de pigmentação de embriões de zebrafish (Danio rerio) com 96 hpf. Com base nisso, segmentar e quantificar a área pigmentada.
+## Objetivo: Esta aplicação foi feita com o intuito de analisar imagens de pigmentação de embriões de zebrafish (Danio rerio) com 96 hpf. Com base nisso, segmentar e quantificar a área pigmentada.
 
-Requisitos: 
+## Requisitos: 
 - Todas as imagens são permitidas, mas para melhores resultados as imagens de vista lateral dos embriões é preferível.
 - As imagens devem conter uma barra de escala, para que a transformação de pixel para "mm" ou "µm" seja feita corretamente.
 
-Funcionamento:
+## Funcionamento:
 1. Instalar em um ambiente venv as bibliotecas do arquivo "requirements_pigmentation.txt".
 2. Instalar a aplicação Tesseract-OCR, da biblioteca pytesseract [1].
 3. No total temos 2 exemplos, um controle e um submetido a bituca sem tabaco remanescente (BST). Independente, o funcionamento é o mesmo.
