@@ -14,6 +14,19 @@ Utilizar LLMs para extrair dados relevantes de artigos sobre toxicidade de bituc
 
 # Pastas:
 - Analisador de Pigmentação: ''analisador_pigmentacao''
+- Tratamentos: "tratamento"
+
+# Tratamento
+
+## Objetivo: 
+O objetivo dessa pasta é guardar os códigos utilizados para o tratamento estatístico (estatistica) e o tratamento dos dados (gráficos)
+
+## Funcionamento:
+1. Para a estatística, somente é necessário dividir um dataset entre "type" (BCT, BST e Control) e a coluna álvo, por exemplo "body_length" (comprimento).
+2. Após isso, carregar as bibliotecas e as funções.
+3. O código já foi pensado para caso algum teste seja negado, como a homocedasticidade, ele realizar algum outro teste similar. No geral, desejamos analisar as diferenças estatísticas entre médias. Para isso, focamos no Anova e no Kruskal Wallis (não-paramétrico).
+4. Por fim, o código também roda o Anova Two-Way e o Turkey Test HSD, como teste post-hoc.
+5. Para a parte dos gráficos, eles são gráficos simples do Matplot com média e desvio padrão.
 
 # Analisador de Pigmentações
 
