@@ -17,7 +17,8 @@ Utilizar LLMs para extrair dados relevantes de artigos sobre toxicidade de bituc
 
 # Analisador de Pigmentações
 
-## Objetivo: Esta aplicação foi feita com o intuito de analisar imagens de pigmentação de embriões de zebrafish (Danio rerio) com 96 hpf. Com base nisso, segmentar e quantificar a área pigmentada.
+## Objetivo: 
+Esta aplicação foi feita com o intuito de analisar imagens de pigmentação de embriões de zebrafish (Danio rerio) com 96 hpf. Com base nisso, segmentar e quantificar a área pigmentada.
 
 ## Requisitos: 
 - Todas as imagens são permitidas, mas para melhores resultados as imagens de vista lateral dos embriões é preferível.
