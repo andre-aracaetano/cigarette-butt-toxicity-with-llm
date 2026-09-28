@@ -1,0 +1,665 @@
+group,gene,legacy_token_count,distinct_article_count,difference
+Nicotine,AHR2,1,1,0
+Nicotine,CYP1A,1,1,0
+Nicotine,CYP1B1,1,1,0
+Nicotine,D-3 dopaminergic receptor,1,1,0
+Nicotine,HES1,1,1,0
+Nicotine,IL-1 beta,1,1,0
+Nicotine,IL-10,1,1,0
+Nicotine,MLC2v,1,1,0
+Nicotine,MYL6,1,1,0
+Nicotine,ache,1,1,0
+Nicotine,alpha 4,1,1,0
+Nicotine,alpha 6-subunit,1,1,0
+Nicotine,alpha 7,1,1,0
+Nicotine,alpha 7-subunit,1,1,0
+Nicotine,alpha 7nAChR,1,1,0
+Nicotine,arntl2,1,1,0
+Nicotine,bdav/cct8,1,1,0
+Nicotine,bdnf,1,1,0
+Nicotine,c-Fos,2,2,0
+Nicotine,c-fos,1,1,0
+Nicotine,c-jun,1,1,0
+Nicotine,cas3,1,1,0
+Nicotine,chrna3,1,1,0
+Nicotine,chrna4,2,2,0
+Nicotine,chrna5,1,1,0
+Nicotine,chrna6,1,1,0
+Nicotine,chrna7,1,1,0
+Nicotine,chrnb4,1,1,0
+Nicotine,cyp19a1a,1,1,0
+Nicotine,cyp19a1b,1,1,0
+Nicotine,cyp3a65,1,1,0
+Nicotine,dnmt1,1,1,0
+Nicotine,dnmt3,1,1,0
+Nicotine,egr1,1,1,0
+Nicotine,egr2,1,1,0
+Nicotine,egr4,1,1,0
+Nicotine,elavl3,1,1,0
+Nicotine,fos,1,1,0
+Nicotine,fosab,1,1,0
+Nicotine,gaba1,1,1,0
+Nicotine,gad1b,1,1,0
+Nicotine,gst,1,1,0
+Nicotine,hbog/gabbr1.2,1,1,0
+Nicotine,htr1aa,1,1,0
+Nicotine,htr2a,1,1,0
+Nicotine,il-1 beta,1,1,0
+Nicotine,il-1/9,1,1,0
+Nicotine,il-10,1,1,0
+Nicotine,il-6,1,1,0
+Nicotine,il-8,1,1,0
+Nicotine,junbb,1,1,0
+Nicotine,lypd6,1,1,0
+Nicotine,lypd6b,1,1,0
+Nicotine,mbp,1,1,0
+Nicotine,miR-125b-2-3p,1,1,0
+Nicotine,miR-152,1,1,0
+Nicotine,miR-96-5p,1,1,0
+Nicotine,miR181a-3-3p,1,1,0
+Nicotine,nmdar1,1,1,0
+Nicotine,oxytocin receptor,1,1,0
+Nicotine,p35,1,1,0
+Nicotine,p53,1,1,0
+Nicotine,pax6a,1,1,0
+Nicotine,per2,1,1,0
+Nicotine,slit3,1,1,0
+Nicotine,tet1,1,1,0
+Nicotine,th1,1,1,0
+Nicotine,tnf-alpha,2,2,0
+Nicotine,tph1,1,1,0
+Nicotine,tyrosine hydroxylase (TH),1,1,0
+Nicotine,vasopressin receptor,1,1,0
+Nicotine,vtg 1,1,1,0
+Nicotine,vtg 2,1,1,0
+Nicotine,ym1,1,1,0
+Heavy metals,ADA,1,1,0
+Heavy metals,ALA-D,1,1,0
+Heavy metals,B4GALT1,1,1,0
+Heavy metals,BAX,2,2,0
+Heavy metals,BDNF,1,1,0
+Heavy metals,BOK,1,1,0
+Heavy metals,Bcl-2,3,3,0
+Heavy metals,C3B,1,1,0
+Heavy metals,CAT,6,6,0
+Heavy metals,CXCL-Clc,1,1,0
+Heavy metals,CYP26B1,1,1,0
+Heavy metals,Cxcl18b,1,1,0
+Heavy metals,DNMTs,1,1,0
+Heavy metals,Dnmt1,1,1,0
+Heavy metals,Dnmt3b,1,1,0
+Heavy metals,ERK2/3,1,1,0
+Heavy metals,ERK3,1,1,0
+Heavy metals,EXO1,1,1,0
+Heavy metals,FBA,1,1,0
+Heavy metals,GCK,1,1,0
+Heavy metals,GPAT3,1,1,0
+Heavy metals,GPx,3,3,0
+Heavy metals,GPx1,1,1,0
+Heavy metals,GST,1,1,0
+Heavy metals,GSTA1,1,1,0
+Heavy metals,GSTM2,1,1,0
+Heavy metals,GSTM3,1,1,0
+Heavy metals,GSTO1,1,1,0
+Heavy metals,GSTP2,1,1,0
+Heavy metals,GSTR,1,1,0
+Heavy metals,GSTT1A,1,1,0
+Heavy metals,GSTT1B,1,1,0
+Heavy metals,HO-1,2,2,0
+Heavy metals,HO-1a,1,1,0
+Heavy metals,HSP70,2,2,0
+Heavy metals,Hsp14,1,1,0
+Heavy metals,Hsp60,1,1,0
+Heavy metals,Hsp70,1,1,0
+Heavy metals,Hsp9,1,1,0
+Heavy metals,IFN gamma,1,1,0
+Heavy metals,IFN-gamma,2,2,0
+Heavy metals,IL-1 beta,6,6,0
+Heavy metals,IL-10,2,2,0
+Heavy metals,IL-6,1,1,0
+Heavy metals,IL-8,3,3,0
+Heavy metals,IL1 beta,1,1,0
+Heavy metals,INF-gamma,1,1,0
+Heavy metals,JNK1,1,1,0
+Heavy metals,KATPase alpha1A4,1,1,0
+Heavy metals,Lyz,1,1,0
+Heavy metals,MLMT-IA,1,1,0
+Heavy metals,MLMT-IB,1,1,0
+Heavy metals,MT,2,2,0
+Heavy metals,MT2,1,1,0
+Heavy metals,Mn-SOD,2,2,0
+Heavy metals,Mx,1,1,0
+Heavy metals,NCCRP1,1,1,0
+Heavy metals,NF-kappa B,1,1,0
+Heavy metals,NF-kappa B-related genes,1,1,0
+Heavy metals,NMDAR,1,1,0
+Heavy metals,NMDAR2A (NR2A),1,1,0
+Heavy metals,NMDAR2B (NR2B),1,1,0
+Heavy metals,NMDAR2D (NR2D),1,1,0
+Heavy metals,Na,1,1,0
+Heavy metals,Nrf2,3,3,0
+Heavy metals,SOD,3,3,0
+Heavy metals,SOD1,2,2,0
+Heavy metals,SOD2,3,3,0
+Heavy metals,TLR-4,1,1,0
+Heavy metals,TNF-alpha,6,6,0
+Heavy metals,TTR,1,1,0
+Heavy metals,TrkB,1,1,0
+Heavy metals,UGT1AB,1,1,0
+Heavy metals,UGT5G1,1,1,0
+Heavy metals,XRCC1,1,1,0
+Heavy metals,a-tubulin,1,1,0
+Heavy metals,aanat1,1,1,0
+Heavy metals,abcb3l1,1,1,0
+Heavy metals,abcb5,1,1,0
+Heavy metals,abcb6a,1,1,0
+Heavy metals,abcc1,1,1,0
+Heavy metals,abcc2,2,2,0
+Heavy metals,abcc4,1,1,0
+Heavy metals,abcc5,1,1,0
+Heavy metals,ache,1,1,0
+Heavy metals,ala-d,1,1,0
+Heavy metals,amhc,1,1,0
+Heavy metals,antioxidant genes,1,1,0
+Heavy metals,ap,1,1,0
+Heavy metals,apex1,2,2,0
+Heavy metals,ar,1,1,0
+Heavy metals,aryl hydrocarbon receptors,1,1,0
+Heavy metals,atp5f1,1,1,0
+Heavy metals,atp7a,1,1,0
+Heavy metals,atp7b,1,1,0
+Heavy metals,bariumx,1,1,0
+Heavy metals,bax,1,1,0
+Heavy metals,bcl-2,1,1,0
+Heavy metals,bcl2,1,1,0
+Heavy metals,beclin1,1,1,0
+Heavy metals,beta-catenin,1,1,0
+Heavy metals,brca2,2,2,0
+Heavy metals,c-fos,1,1,0
+Heavy metals,c3,1,1,0
+Heavy metals,cas3,1,1,0
+Heavy metals,casp3,1,1,0
+Heavy metals,casp8,1,1,0
+Heavy metals,casp9,1,1,0
+Heavy metals,caspase 3,1,1,0
+Heavy metals,caspase9,1,1,0
+Heavy metals,cat,2,2,0
+Heavy metals,cat1,1,1,0
+Heavy metals,catalase,1,1,0
+Heavy metals,celf4,1,1,0
+Heavy metals,chop,1,1,0
+Heavy metals,clock1b,1,1,0
+Heavy metals,clock2,1,1,0
+Heavy metals,copper/zinc-SOD,1,1,0
+Heavy metals,cox1,1,1,0
+Heavy metals,coxI,1,1,0
+Heavy metals,cpt1a,1,1,0
+Heavy metals,creb1,2,2,0
+Heavy metals,crh,1,1,0
+Heavy metals,cry1b,1,1,0
+Heavy metals,ctr1,1,1,0
+Heavy metals,ctssb.1,1,1,0
+Heavy metals,cu-sod,1,1,0
+Heavy metals,cu/znsod,1,1,0
+Heavy metals,cyp11a,1,1,0
+Heavy metals,cyp19a,1,1,0
+Heavy metals,cyp1a,2,2,0
+Heavy metals,cyp2b,1,1,0
+Heavy metals,cyp3a,1,1,0
+Heavy metals,dat,1,1,0
+Heavy metals,deio2,1,1,0
+Heavy metals,dio1,1,1,0
+Heavy metals,dio2,1,1,0
+Heavy metals,drd1b,1,1,0
+Heavy metals,dsred2,1,1,0
+Heavy metals,egr1,1,1,0
+Heavy metals,elaA,1,1,0
+Heavy metals,elavl3,1,1,0
+Heavy metals,endocrine related genes,1,1,0
+Heavy metals,er beta 1,1,1,0
+Heavy metals,erk-1,1,1,0
+Heavy metals,esr,1,1,0
+Heavy metals,esr1,1,1,0
+Heavy metals,esr2a,1,1,0
+Heavy metals,fads2,1,1,0
+Heavy metals,foxr1,1,1,0
+Heavy metals,fsh,1,1,0
+Heavy metals,gadd45,1,1,0
+Heavy metals,gap43,1,1,0
+Heavy metals,gfap,3,3,0
+Heavy metals,glsI,1,1,0
+Heavy metals,gnrh2,1,1,0
+Heavy metals,gpx1,1,1,0
+Heavy metals,gpx1a,3,3,0
+Heavy metals,gsk3b,1,1,0
+Heavy metals,gsr,1,1,0
+Heavy metals,gst,3,3,0
+Heavy metals,gstr,1,1,0
+Heavy metals,hbz,1,1,0
+Heavy metals,he1a,1,1,0
+Heavy metals,he1b,1,1,0
+Heavy metals,heat shock protein 70,1,1,0
+Heavy metals,heat shock proteins,1,1,0
+Heavy metals,hhex,1,1,0
+Heavy metals,hif-1 alpha,1,1,0
+Heavy metals,ho1,2,2,0
+Heavy metals,hormone,1,1,0
+Heavy metals,hsp70,9,9,0
+Heavy metals,hsp70-4,1,1,0
+Heavy metals,hsp90,1,1,0
+Heavy metals,hsp90alpha,1,1,0
+Heavy metals,il-1 beta,1,1,0
+Heavy metals,il-10,1,1,0
+Heavy metals,il-8,1,1,0
+Heavy metals,interleukin-1 beta,1,1,0
+Heavy metals,interleukin-10,1,1,0
+Heavy metals,islet,1,1,0
+Heavy metals,keap1,3,3,0
+Heavy metals,kim1,1,1,0
+Heavy metals,klf2 alpha,1,1,0
+Heavy metals,krt8,1,1,0
+Heavy metals,ldh,1,1,0
+Heavy metals,leadx1b,1,1,0
+Heavy metals,lyz,1,1,0
+Heavy metals,malat1,1,1,0
+Heavy metals,mbp,2,2,0
+Heavy metals,metallothionein,1,1,0
+Heavy metals,metallothionein A,1,1,0
+Heavy metals,metallothionein genes,1,1,0
+Heavy metals,metallothionines,1,1,0
+Heavy metals,mitfb,1,1,0
+Heavy metals,mlh1,1,1,0
+Heavy metals,mn-sod,1,1,0
+Heavy metals,mnsod,1,1,0
+Heavy metals,mpx,1,1,0
+Heavy metals,mpz,1,1,0
+Heavy metals,msh2,1,1,0
+Heavy metals,msh6,1,1,0
+Heavy metals,mt,2,2,0
+Heavy metals,mt-2,1,1,0
+Heavy metals,mt-Ia1,1,1,0
+Heavy metals,mt1,2,2,0
+Heavy metals,mt1/A,1,1,0
+Heavy metals,mt2,5,5,0
+Heavy metals,mt2/B,1,1,0
+Heavy metals,mtnr1aa,1,1,0
+Heavy metals,mtnr1bb,1,1,0
+Heavy metals,mtnr1c,1,1,0
+Heavy metals,mylz2,1,1,0
+Heavy metals,ndfip2,1,1,0
+Heavy metals,neuroD,1,1,0
+Heavy metals,ngo1,1,1,0
+Heavy metals,nis,2,2,0
+Heavy metals,nkx2.1,1,1,0
+Heavy metals,nppa,1,1,0
+Heavy metals,nppb,1,1,0
+Heavy metals,nqo1,2,2,0
+Heavy metals,nrf-2,1,1,0
+Heavy metals,nrf2,4,4,0
+Heavy metals,nrf2a,1,1,0
+Heavy metals,nuclear factor- kappa B,1,1,0
+Heavy metals,ogg1,3,3,0
+Heavy metals,olig2,1,1,0
+Heavy metals,p21,2,2,0
+Heavy metals,p27,1,1,0
+Heavy metals,p38 MAPKs,1,1,0
+Heavy metals,p38a,1,1,0
+Heavy metals,p38b,1,1,0
+Heavy metals,p53,7,7,0
+Heavy metals,pax2a,1,1,0
+Heavy metals,pax8,1,1,0
+Heavy metals,pcna,2,2,0
+Heavy metals,plp1,1,1,0
+Heavy metals,polb,2,2,0
+Heavy metals,prdx1,1,1,0
+Heavy metals,pro-inflammatory genes,1,1,0
+Heavy metals,rad51,2,2,0
+Heavy metals,reactive oxygen species (ROS),1,1,0
+Heavy metals,shha,1,1,0
+Heavy metals,slc15a4,1,1,0
+Heavy metals,slc6a3,1,1,0
+Heavy metals,socs3a,1,1,0
+Heavy metals,sod,3,3,0
+Heavy metals,sod1,5,5,0
+Heavy metals,sod2,2,2,0
+Heavy metals,sodmt,1,1,0
+Heavy metals,sox2,2,2,0
+Heavy metals,sqrdl,1,1,0
+Heavy metals,stxbpl a,1,1,0
+Heavy metals,syn2 alpha,1,1,0
+Heavy metals,syn2a,1,1,0
+Heavy metals,tap,1,1,0
+Heavy metals,tg,3,3,0
+Heavy metals,th,2,2,0
+Heavy metals,th1,1,1,0
+Heavy metals,th2,1,1,0
+Heavy metals,thr alpha,1,1,0
+Heavy metals,thr beta,1,1,0
+Heavy metals,tmprss13a,1,1,0
+Heavy metals,tnf alpha 2,1,1,0
+Heavy metals,tpo,1,1,0
+Heavy metals,tr beta,1,1,0
+Heavy metals,trp-1a,1,1,0
+Heavy metals,trpv6,1,1,0
+Heavy metals,tsh beta,3,3,0
+Heavy metals,ttr,1,1,0
+Heavy metals,tumor necrosis factor- alpha,1,1,0
+Heavy metals,tumor suppressor p53,1,1,0
+Heavy metals,txn,1,1,0
+Heavy metals,ucp1,1,1,0
+Heavy metals,ucp2,1,1,0
+Heavy metals,ucp3,1,1,0
+Heavy metals,ugt1ab,1,1,0
+Heavy metals,uv-ddb2,1,1,0
+Heavy metals,vegf,1,1,0
+Heavy metals,vmhc,1,1,0
+Heavy metals,vtg1,1,1,0
+Heavy metals,vtg2,1,1,0
+Heavy metals,wnt3,1,1,0
+Heavy metals,wnt8a,1,1,0
+Heavy metals,xpc,1,1,0
+Heavy metals,zMT-II,1,1,0
+Heavy metals,zgc:92590,1,1,0
+Heavy metals,zinc/copper-SOD,1,1,0
+PAHs,17 beta hsd,1,1,0
+PAHs,1b1,1,1,0
+PAHs,1c1,1,1,0
+PAHs,20 beta-hsd,1,1,0
+PAHs,3 beta-hsd,1,1,0
+PAHs,aanat2,1,1,0
+PAHs,abcb1,2,2,0
+PAHs,abcc1,1,1,0
+PAHs,abcc2,1,1,0
+PAHs,abcc4,1,1,0
+PAHs,abcg2,1,1,0
+PAHs,ahr,2,2,0
+PAHs,ahr1,5,5,0
+PAHs,ahr1a,3,3,0
+PAHs,ahr1b,2,2,0
+PAHs,ahr2,16,16,0
+PAHs,ahr2(1),1,1,0
+PAHs,ahr2a,1,1,0
+PAHs,ahrr,1,1,0
+PAHs,ahrr1,1,1,0
+PAHs,ahrr2,1,1,0
+PAHs,ahrrb,2,2,0
+PAHs,ahrrra,1,1,0
+PAHs,amh,1,1,0
+PAHs,androgen receptor 2,1,1,0
+PAHs,apaf1,2,2,0
+PAHs,arnt2,1,1,0
+PAHs,aryl hydrocarbon receptors,1,1,0
+PAHs,atoh8,1,1,0
+PAHs,atp2a2,2,2,0
+PAHs,atp2a2a,2,2,0
+PAHs,atpase,1,1,0
+PAHs,atrial natriuretic peptide,1,1,0
+PAHs,axing,1,1,0
+PAHs,bax,1,1,0
+PAHs,bcl-2,2,2,0
+PAHs,bmp10,1,1,0
+PAHs,bmp2b,2,2,0
+PAHs,bmp4,1,1,0
+PAHs,bmper,1,1,0
+PAHs,bmpr2,1,1,0
+PAHs,bone morphogenic protein ligands,1,1,0
+PAHs,c-jun,1,1,0
+PAHs,c-myc,1,1,0
+PAHs,c-myca,1,1,0
+PAHs,c/ebp-alpha,1,1,0
+PAHs,c9,1,1,0
+PAHs,cacna1c,1,1,0
+PAHs,calr,1,1,0
+PAHs,canx,1,1,0
+PAHs,cardiac troponin t2,1,1,0
+PAHs,casp3a,1,1,0
+PAHs,caspase-3,2,2,0
+PAHs,cat,2,2,0
+PAHs,catalase,2,2,0
+PAHs,cathepsin l,1,1,0
+PAHs,ccdc80,1,1,0
+PAHs,cdh5,1,1,0
+PAHs,chek2,1,1,0
+PAHs,chg-l,1,1,0
+PAHs,cmlc1,1,1,0
+PAHs,col1a1,1,1,0
+PAHs,col8a1a,1,1,0
+PAHs,cox-1,1,1,0
+PAHs,cox-2a,1,1,0
+PAHs,cox-2b,1,1,0
+PAHs,cox1,1,1,0
+PAHs,cox2a,1,1,0
+PAHs,cox2b,1,1,0
+PAHs,crh,2,2,0
+PAHs,cu/zn-sod,1,1,0
+PAHs,cuznsod,1,1,0
+PAHs,cxcr4a,1,1,0
+PAHs,cyp1 alpha,1,1,0
+PAHs,cyp11a,1,1,0
+PAHs,cyp11a1,1,1,0
+PAHs,cyp17a1,1,1,0
+PAHs,cyp19a,1,1,0
+PAHs,cyp19a1,1,1,0
+PAHs,cyp19a1b,1,1,0
+PAHs,cyp19a2,2,2,0
+PAHs,cyp19b,2,2,0
+PAHs,cyp1a,58,58,0
+PAHs,cyp1a1,15,15,0
+PAHs,cyp1a1/b1,1,1,0
+PAHs,cyp1a2,1,1,0
+PAHs,cyp1a3,1,1,0
+PAHs,cyp1b,2,2,0
+PAHs,cyp1b1,15,15,0
+PAHs,cyp1c,1,1,0
+PAHs,cyp1c1,9,9,0
+PAHs,cyp1c2,5,5,0
+PAHs,cyp1d,1,1,0
+PAHs,cyp1d1,1,1,0
+PAHs,cyp2aa12,1,1,0
+PAHs,cyp3a,4,4,0
+PAHs,cyp3c,1,1,0
+PAHs,cyp7a1,2,2,0
+PAHs,cytochrome p450 1a,1,1,0
+PAHs,deio1,1,1,0
+PAHs,dio1,1,1,0
+PAHs,dio2,3,3,0
+PAHs,dio3,2,2,0
+PAHs,dmrt-1,1,1,0
+PAHs,dnmt1,2,2,0
+PAHs,dnmt3,1,1,0
+PAHs,endothelin-1,1,1,0
+PAHs,epidermal growth factor,1,1,0
+PAHs,epo,1,1,0
+PAHs,epoa,1,1,0
+PAHs,er alpha,1,1,0
+PAHs,er beta,1,1,0
+PAHs,er beta 1,1,1,0
+PAHs,era,1,1,0
+PAHs,esr1,2,2,0
+PAHs,esr2,2,2,0
+PAHs,f3b,1,1,0
+PAHs,fabp10ab,1,1,0
+PAHs,fdft1,1,1,0
+PAHs,fgf3,1,1,0
+PAHs,fgf4,1,1,0
+PAHs,fgf7,1,1,0
+PAHs,fgf8,1,1,0
+PAHs,fgfr2,1,1,0
+PAHs,fibroblast growth factor,1,1,0
+PAHs,fos,3,3,0
+PAHs,foxa2,1,1,0
+PAHs,gata1,1,1,0
+PAHs,gata4,1,1,0
+PAHs,gclc,1,1,0
+PAHs,ghr,1,1,0
+PAHs,glutamate cysteine-ligase,1,1,0
+PAHs,glutathione peroxidase 1,1,1,0
+PAHs,gnmt,1,1,0
+PAHs,gper1,1,1,0
+PAHs,gpx,4,4,0
+PAHs,gpx1,1,1,0
+PAHs,gpx1a,1,1,0
+PAHs,growth arrest dna damage,1,1,0
+PAHs,gsr,1,1,0
+PAHs,gst,2,2,0
+PAHs,gst3,1,1,0
+PAHs,gsta1,1,1,0
+PAHs,gsta2,1,1,0
+PAHs,gstal,1,1,0
+PAHs,gstm,1,1,0
+PAHs,gstp,1,1,0
+PAHs,gstp1,1,1,0
+PAHs,gstp2,1,1,0
+PAHs,hao1,1,1,0
+PAHs,hbbe1.1,1,1,0
+PAHs,hbegf alpha,1,1,0
+PAHs,hcrt,1,1,0
+PAHs,hcrtr,1,1,0
+PAHs,heat shock protein 70,1,1,0
+PAHs,heat shock proteins,1,1,0
+PAHs,hhex,1,1,0
+PAHs,hif-2 alpha,1,1,0
+PAHs,hif1a,1,1,0
+PAHs,hif2a,1,1,0
+PAHs,hiflaa,1,1,0
+PAHs,hmgcra,1,1,0
+PAHs,hmox1,3,3,0
+PAHs,hoxa3a,1,1,0
+PAHs,hsp70,4,4,0
+PAHs,hsp90,2,2,0
+PAHs,id genes,1,1,0
+PAHs,ier2,1,1,0
+PAHs,ifn-gamma,1,1,0
+PAHs,il-1 beta,3,3,0
+PAHs,il-1b,1,1,0
+PAHs,il-6,2,2,0
+PAHs,il-8,3,3,0
+PAHs,interleukin-1 beta,1,1,0
+PAHs,interleukin-10,1,1,0
+PAHs,isl1,2,2,0
+PAHs,itgb1,1,1,0
+PAHs,jnk,1,1,0
+PAHs,keap1,2,2,0
+PAHs,lxr,1,1,0
+PAHs,lyz,1,1,0
+PAHs,malt,1,1,0
+PAHs,mdr1,1,1,0
+PAHs,metallothionines,1,1,0
+PAHs,mmp9,1,1,0
+PAHs,mnsod,1,1,0
+PAHs,mrp1,1,1,0
+PAHs,mrp2,1,1,0
+PAHs,mt,1,1,0
+PAHs,mt1,1,1,0
+PAHs,mt2,2,2,0
+PAHs,myca,1,1,0
+PAHs,myh6,1,1,0
+PAHs,myh7,1,1,0
+PAHs,myhz1.1,1,1,0
+PAHs,myl7,1,1,0
+PAHs,nap1,1,1,0
+PAHs,neurodevelopment genes,1,1,0
+PAHs,nfe2,1,1,0
+PAHs,nfe212,1,1,0
+PAHs,nfe2l2,1,1,0
+PAHs,nis,2,2,0
+PAHs,nk2.1a,1,1,0
+PAHs,nkx 2.5,1,1,0
+PAHs,nkx2.1,2,2,0
+PAHs,nkx2.5,4,4,0
+PAHs,nppa,2,2,0
+PAHs,nqo1,2,2,0
+PAHs,nrf1,1,1,0
+PAHs,nrf2,3,3,0
+PAHs,nrf2b,1,1,0
+PAHs,nrf3,1,1,0
+PAHs,nrg2,1,1,0
+PAHs,nuclear factor- kappa b,1,1,0
+PAHs,opn1sw1,1,1,0
+PAHs,p38,1,1,0
+PAHs,p53,6,6,0
+PAHs,pax2.1,1,1,0
+PAHs,pax8,2,2,0
+PAHs,pdx-1,1,1,0
+PAHs,per1,1,1,0
+PAHs,peroxisome proliferator-activated receptor gamma,1,1,0
+PAHs,pert,1,1,0
+PAHs,pgp,1,1,0
+PAHs,phosphorylated akt,1,1,0
+PAHs,pi class glutathione-s-transferase,1,1,0
+PAHs,pkc,1,1,0
+PAHs,prkd1,1,1,0
+PAHs,proliferating cell nuclear antigen,1,1,0
+PAHs,ptf1a,1,1,0
+PAHs,pu.1,1,1,0
+PAHs,pxr,2,2,0
+PAHs,pycard,1,1,0
+PAHs,rag1,1,1,0
+PAHs,rassf1,1,1,0
+PAHs,reactive oxygen species (ros),1,1,0
+PAHs,retinaldehyde dehydrogenase,1,1,0
+PAHs,rhag,1,1,0
+PAHs,rhodopsin,1,1,0
+PAHs,ripk1,1,1,0
+PAHs,robo1,1,1,0
+PAHs,rspo2,1,1,0
+PAHs,runx1,1,1,0
+PAHs,serine/threonine kinase (akt),1,1,0
+PAHs,shbg,1,1,0
+PAHs,shha,1,1,0
+PAHs,sirt1,1,1,0
+PAHs,smads,1,1,0
+PAHs,smyd1,1,1,0
+PAHs,sod,2,2,0
+PAHs,sod1,3,3,0
+PAHs,sod2,2,2,0
+PAHs,sox9b,1,1,0
+PAHs,sp7,1,1,0
+PAHs,srebp-1c,1,1,0
+PAHs,star,2,2,0
+PAHs,sulf1,1,1,0
+PAHs,sult1st1,1,1,0
+PAHs,superoxide dismutase 1,1,1,0
+PAHs,superoxide dismutase 2,1,1,0
+PAHs,survivin,1,1,0
+PAHs,tbx5,2,2,0
+PAHs,tert,1,1,0
+PAHs,tg,3,3,0
+PAHs,tgf-beta,1,1,0
+PAHs,thr beta,1,1,0
+PAHs,thyroid hormone receptor beta,1,1,0
+PAHs,tnf-alpha,4,4,0
+PAHs,tnfsf10,1,1,0
+PAHs,tnnt2a,1,1,0
+PAHs,tp53,1,1,0
+PAHs,tpo,2,2,0
+PAHs,tr alpha,2,2,0
+PAHs,tr beta,2,2,0
+PAHs,traf2b,1,1,0
+PAHs,trh,1,1,0
+PAHs,tsh beta,2,2,0
+PAHs,ttr,3,3,0
+PAHs,tumor necrosis factor- alpha,1,1,0
+PAHs,tumor suppressor p53,1,1,0
+PAHs,type 2 deiodinase,1,1,0
+PAHs,ugt1a,1,1,0
+PAHs,ugt1a1,3,3,0
+PAHs,ugt1ab,2,2,0
+PAHs,ugt1b,1,1,0
+PAHs,vadc1,1,1,0
+PAHs,vasa,1,1,0
+PAHs,vegf,2,2,0
+PAHs,vegfr3,1,1,0
+PAHs,vitellogenin,3,3,0
+PAHs,vtg,6,6,0
+PAHs,vtg1,2,2,0
+PAHs,vtg1a/b,1,1,0
+PAHs,vtg2,2,2,0
+PAHs,wfikkn1,1,1,0
+PAHs,xpa,2,2,0
+PAHs,xpc,2,2,0
+PAHs,zerg,1,1,0
+PAHs,zgc:153269,1,1,0
+PAHs,zp,1,1,0
+PAHs,zp3,1,1,0
+PAHs,zp4,1,1,0

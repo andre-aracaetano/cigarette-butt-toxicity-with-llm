@@ -1,0 +1,5 @@
+endpoint,test,omnibus_p,comparison,p_raw,p_adjusted,symbol
+intensity,Kruskal-Wallis + Dunn-Bonferroni,0.005199902597022674,SCB 1 vs Control,0.002185692543206802,0.008742770172827208,**
+intensity,Kruskal-Wallis + Dunn-Bonferroni,0.005199902597022674,SCB 2 vs Control,0.0036137361084833592,0.014454944433933437,*
+intensity,Kruskal-Wallis + Dunn-Bonferroni,0.005199902597022674,SCF 1 vs Control,0.0010741460586966413,0.004296584234786565,**
+intensity,Kruskal-Wallis + Dunn-Bonferroni,0.005199902597022674,SCF 2 vs Control,0.0007232327164301925,0.00289293086572077,**

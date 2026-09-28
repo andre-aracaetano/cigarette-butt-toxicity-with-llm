@@ -1,0 +1,43 @@
+figure,endpoint,test,omnibus_p,comparison,p_raw,p_adjusted,symbol,exposed_positive,exposed_total,control_positive,control_total
+body_length,body_length,Kruskal-Wallis + Dunn-Bonferroni,1.269227156787208e-08,SCB 0.5 vs Control,0.004420835759636875,0.026525014557821247,*,,,,
+body_length,body_length,Kruskal-Wallis + Dunn-Bonferroni,1.269227156787208e-08,SCB 1.0 vs Control,0.2594553033741531,1.0,ns,,,,
+body_length,body_length,Kruskal-Wallis + Dunn-Bonferroni,1.269227156787208e-08,SCB 2.0 vs Control,5.133994794239127e-06,3.0803968765434764e-05,****,,,,
+body_length,body_length,Kruskal-Wallis + Dunn-Bonferroni,1.269227156787208e-08,SCF 0.5 vs Control,0.3339473229511739,1.0,ns,,,,
+body_length,body_length,Kruskal-Wallis + Dunn-Bonferroni,1.269227156787208e-08,SCF 1.0 vs Control,0.4951625398584384,1.0,ns,,,,
+body_length,body_length,Kruskal-Wallis + Dunn-Bonferroni,1.269227156787208e-08,SCF 2.0 vs Control,1.8682124502659146e-06,1.1209274701595488e-05,****,,,,
+yolk_sac_area,yolk_sac_area,Kruskal-Wallis + Dunn-Bonferroni,2.421060695139494e-07,SCB 0.5 vs Control,0.00024267284616197123,0.0014560370769718274,**,,,,
+yolk_sac_area,yolk_sac_area,Kruskal-Wallis + Dunn-Bonferroni,2.421060695139494e-07,SCB 1.0 vs Control,1.307319114602443e-06,7.843914687614658e-06,****,,,,
+yolk_sac_area,yolk_sac_area,Kruskal-Wallis + Dunn-Bonferroni,2.421060695139494e-07,SCB 2.0 vs Control,1.9491098671073194e-05,0.00011694659202643917,***,,,,
+yolk_sac_area,yolk_sac_area,Kruskal-Wallis + Dunn-Bonferroni,2.421060695139494e-07,SCF 0.5 vs Control,0.002076325417313335,0.012457952503880008,*,,,,
+yolk_sac_area,yolk_sac_area,Kruskal-Wallis + Dunn-Bonferroni,2.421060695139494e-07,SCF 1.0 vs Control,0.023580629008708314,0.14148377405224988,ns,,,,
+yolk_sac_area,yolk_sac_area,Kruskal-Wallis + Dunn-Bonferroni,2.421060695139494e-07,SCF 2.0 vs Control,0.0008098305788458142,0.004858983473074885,**,,,,
+developmental_abnormalities,open_swim_bladder,Fisher exact + Holm,,SCB 0.5 vs Control,0.008179030151147059,0.049074180906882356,*,0.0,11.0,15.0,34.0
+developmental_abnormalities,open_swim_bladder,Fisher exact + Holm,,SCB 1.0 vs Control,0.016889773912790902,0.05066932173837271,ns,0.0,9.0,15.0,34.0
+developmental_abnormalities,open_swim_bladder,Fisher exact + Holm,,SCB 2.0 vs Control,0.009185171080266164,0.049074180906882356,*,0.0,10.0,15.0,34.0
+developmental_abnormalities,open_swim_bladder,Fisher exact + Holm,,SCF 0.5 vs Control,0.16314711453017156,0.16314711453017156,ns,2.0,12.0,15.0,34.0
+developmental_abnormalities,open_swim_bladder,Fisher exact + Holm,,SCF 1.0 vs Control,0.009185171080266164,0.049074180906882356,*,0.0,10.0,15.0,34.0
+developmental_abnormalities,open_swim_bladder,Fisher exact + Holm,,SCF 2.0 vs Control,0.016889773912790902,0.05066932173837271,ns,0.0,9.0,15.0,34.0
+developmental_abnormalities,edema_present,Fisher exact + Holm,,SCB 0.5 vs Control,0.05555555555555555,0.11960132890365448,ns,2.0,11.0,0.0,34.0
+developmental_abnormalities,edema_present,Fisher exact + Holm,,SCB 1.0 vs Control,0.03986710963455149,0.11960132890365448,ns,2.0,9.0,0.0,34.0
+developmental_abnormalities,edema_present,Fisher exact + Holm,,SCB 2.0 vs Control,1.4105754918365001e-08,8.463452951019001e-08,****,9.0,10.0,0.0,34.0
+developmental_abnormalities,edema_present,Fisher exact + Holm,,SCF 0.5 vs Control,1.0,1.0,ns,0.0,12.0,0.0,34.0
+developmental_abnormalities,edema_present,Fisher exact + Holm,,SCF 1.0 vs Control,0.009060706735125339,0.036242826940501356,*,3.0,10.0,0.0,34.0
+developmental_abnormalities,edema_present,Fisher exact + Holm,,SCF 2.0 vs Control,1.1171757895345085e-06,5.585878947672543e-06,****,7.0,9.0,0.0,34.0
+developmental_abnormalities,deformation_present,Fisher exact + Holm,,SCB 0.5 vs Control,0.007364733131219683,0.02945893252487873,*,6.0,11.0,4.0,34.0
+developmental_abnormalities,deformation_present,Fisher exact + Holm,,SCB 1.0 vs Control,0.14657178782324318,0.29314357564648635,ns,3.0,9.0,4.0,34.0
+developmental_abnormalities,deformation_present,Fisher exact + Holm,,SCB 2.0 vs Control,9.048237247777504e-06,4.524118623888752e-05,****,9.0,10.0,4.0,34.0
+developmental_abnormalities,deformation_present,Fisher exact + Holm,,SCF 0.5 vs Control,0.35536757996498064,0.35536757996498064,ns,3.0,12.0,4.0,34.0
+developmental_abnormalities,deformation_present,Fisher exact + Holm,,SCF 1.0 vs Control,0.06414655807138718,0.19243967421416153,ns,4.0,10.0,4.0,34.0
+developmental_abnormalities,deformation_present,Fisher exact + Holm,,SCF 2.0 vs Control,1.267905856376466e-06,7.607435138258796e-06,****,9.0,9.0,4.0,34.0
+heart_rate,bpm,One-way ANOVA + Tukey HSD,,SCB 0.5 vs Control,,0.0,****,,,,
+heart_rate,bpm,One-way ANOVA + Tukey HSD,,SCB 1.0 vs Control,,0.0001,***,,,,
+heart_rate,bpm,One-way ANOVA + Tukey HSD,,SCB 2.0 vs Control,,0.0,****,,,,
+heart_rate,bpm,One-way ANOVA + Tukey HSD,,SCF 0.5 vs Control,,0.0021,**,,,,
+heart_rate,bpm,One-way ANOVA + Tukey HSD,,SCF 1.0 vs Control,,0.0335,*,,,,
+heart_rate,bpm,One-way ANOVA + Tukey HSD,,SCF 2.0 vs Control,,0.0004,***,,,,
+pigmented_area_normalized,pigmented_area_normalized,Kruskal-Wallis + Dunn-Bonferroni,2.5175313136804603e-12,SCB 0.5 vs Control,3.500210550003149e-05,0.00021001263300018892,***,,,,
+pigmented_area_normalized,pigmented_area_normalized,Kruskal-Wallis + Dunn-Bonferroni,2.5175313136804603e-12,SCB 1.0 vs Control,5.683058095164385e-06,3.409834857098631e-05,****,,,,
+pigmented_area_normalized,pigmented_area_normalized,Kruskal-Wallis + Dunn-Bonferroni,2.5175313136804603e-12,SCB 2.0 vs Control,1.7164611037008723e-08,1.0298766622205234e-07,****,,,,
+pigmented_area_normalized,pigmented_area_normalized,Kruskal-Wallis + Dunn-Bonferroni,2.5175313136804603e-12,SCF 0.5 vs Control,3.8007754509348904e-06,2.2804652705609342e-05,****,,,,
+pigmented_area_normalized,pigmented_area_normalized,Kruskal-Wallis + Dunn-Bonferroni,2.5175313136804603e-12,SCF 1.0 vs Control,9.494124004047317e-06,5.69647440242839e-05,****,,,,
+pigmented_area_normalized,pigmented_area_normalized,Kruskal-Wallis + Dunn-Bonferroni,2.5175313136804603e-12,SCF 2.0 vs Control,1.220028579413892e-07,7.320171476483353e-07,****,,,,

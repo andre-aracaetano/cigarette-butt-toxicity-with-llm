@@ -1,0 +1,11 @@
+element,unit,epa_mean,epa_rsd_percent,bct_mean,bct_rsd_percent,bst_mean,bst_rsd_percent,source_sheet,status
+Mn,ug/L,2.09,0.6,755.79,1.7,15.61,0.8,Conc. in Calib Units,pending_unit_and_dilution_validation
+Fe,ug/L,3.01,2.6,87.10,1.1,8.25,2.0,Conc. in Calib Units,pending_unit_and_dilution_validation
+Ni,ug/L,,,1.54,13.1,0.32,44.9,Conc. in Calib Units,pending_lod_and_unit_validation
+Cu,ug/L,1.90,7.8,28.62,1.0,0.13,63.4,Conc. in Calib Units,pending_unit_and_dilution_validation
+Zn,ug/L,0.14,49.3,93.69,0.5,4.49,1.2,Conc. in Calib Units,pending_unit_and_dilution_validation
+Sr,ug/L,62.55,1.0,244.74,0.6,66.48,2.4,Conc. in Calib Units,pending_unit_and_dilution_validation
+P,ug/L,,,8.48,18.4,170.53,1.8,Conc. in Calib Units,pending_unit_and_dilution_validation
+Li,ug/L,14.37,0.2,16.57,3.0,2.57,1.8,Conc. in Calib Units,pending_unit_and_dilution_validation
+Mg,mg/L,4.48,1.2,41.44,1.8,6.91,1.4,Conc. in Calib Units,pending_unit_and_dilution_validation
+Ca,mg/L,10.50,1.5,82.70,3.0,29.74,2.1,Conc. in Calib Units,pending_unit_and_dilution_validation
