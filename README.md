@@ -8,10 +8,8 @@ genotoxicity, and exploratory gene-expression endpoints.
 ## Repository layout
 
 - `article/`: data, notebooks, and scripts used for the manuscript figures.
-- `script_llm_extracao.py`: original local-LLM extraction workflow.
-- `analisador_pigmentacao/`: image-processing workflow for larval pigmentation.
-- `bancos de dados/` and `tratamento/`: legacy project datasets and analyses.
-- `modelo3D_robo_fumante.stl`: smoking-device component.
+- `article/scripts/literature_extraction.py`: local-LLM extraction workflow.
+- `smoking_robot_component.stl`: smoking-device component.
 
 ## Reproducing the article analyses
 
@@ -31,8 +29,8 @@ not distributed in this repository.
 
 ## Data notes
 
-Source treatment codes are retained where needed for traceability: `BCT` is
-displayed as SCB and `BST` as SCF. Files containing RT-qPCR technical
+Treatment names are standardized as SCB and SCF throughout the public data.
+Files containing RT-qPCR technical
 replicates or comet-assay cells without biological-replicate identifiers are
 used descriptively to avoid pseudoreplication.
 

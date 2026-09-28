@@ -61,7 +61,7 @@ def dunn_control(df, value, order):
 
 def ros_figure():
     raw = pd.read_excel(DATA / "ros_intensity_22082025.xlsx")
-    raw["treatment"] = raw.type.replace({"control": "Control", "BCT": "SCB", "BST": "SCF"})
+    raw["treatment"] = raw.type.replace({"control": "Control", "SCB": "SCB", "SCF": "SCF"})
     raw["group"] = np.where(raw.treatment.eq("Control"), "Control",
                             raw.treatment + " " + raw.concentration.astype(str))
     # Snap-19 is retained as missing: its displaced value is not reassigned without source verification.
@@ -92,7 +92,7 @@ def ros_figure():
 
 def comet_figure():
     raw = pd.read_excel(DATA / "comet_assay_clean.xlsx")
-    labels = {"control_negative": "Control", "control_positive": "Positive control", "BCT": "SCB", "BST": "SCF"}
+    labels = {"control_negative": "Control", "control_positive": "Positive control", "SCB": "SCB", "SCF": "SCF"}
     raw["treatment"] = raw.type.replace(labels)
     raw["group"] = np.where(raw.treatment.isin(["Control", "Positive control"]), raw.treatment,
                             raw.treatment + " " + raw.concentration.map(lambda x: f"{x:.1f}"))
@@ -119,7 +119,7 @@ def comet_figure():
 
 def qpcr_figure():
     raw = pd.read_excel(DATA / "rt_qpcr_expression.xlsx").rename(columns={"il1":"il1b", "tnf":"tnfa"})
-    raw["treatment"] = raw.type.replace({"controle":"Control", "bct":"SCB", "bst":"SCF"})
+    raw["treatment"] = raw.type.replace({"Control": "Control", "SCB": "SCB", "SCF": "SCF"})
     genes = ["nestin", "gfap", "il1b", "tnfa", "casp9"]
     long = raw.melt(id_vars="treatment", value_vars=genes, var_name="gene", value_name="expression").dropna()
     summary = long.groupby(["gene", "treatment"]).expression.agg(technical_n="count", mean="mean", sd="std").reset_index()

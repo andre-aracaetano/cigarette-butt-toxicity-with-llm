@@ -1,7 +1,6 @@
 """Publication figures for zebrafish developmental endpoints.
 
-Raw treatment codes are retained in the source workbook. Display labels use SCB
-for BCT and SCF for BST. Every significance symbol is generated from a stored
+Treatment labels are standardized as SCB and SCF. Every significance symbol is generated from a stored
 comparison against the shared control; no annotation is typed manually.
 """
 from pathlib import Path
@@ -49,7 +48,7 @@ plt.rcParams.update({
 def clean_data() -> pd.DataFrame:
     df = pd.read_excel(DATA)
     df["treatment_raw"] = df["type"]
-    df["treatment"] = df["type"].replace({"BCT": "SCB", "BST": "SCF", "control": CONTROL})
+    df["treatment"] = df["type"].replace({"SCB": "SCB", "SCF": "SCF", "control": CONTROL})
     df["group"] = np.where(
         df["concentration"].eq(0), CONTROL,
         df["treatment"] + " " + df["concentration"].map(lambda x: f"{float(x):.1f}"),

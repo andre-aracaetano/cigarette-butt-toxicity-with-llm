@@ -9,7 +9,7 @@ no value in the expected `intensity` column; the value `220784` appears in an
 adjacent column. This must be checked against the original QuantiFish export
 before the final analysis. Missing values must not be silently moved.
 
-Raw treatment labels BCT/BST are displayed in the manuscript as SCB/SCF.
+Treatment labels are standardized as SCB and SCF throughout the public dataset.
 
 ## Comet assay
 
@@ -32,4 +32,3 @@ used as independent biological replicates for population-level inference.
 The plotted values are normalized relative expression values. Confirm the exact
 calculation method (for example, 2^-DeltaDeltaCt), reference-gene processing, and
 whether amplification efficiencies were assumed equal.
-
